@@ -5,7 +5,6 @@ Building scalable backend services, reliable APIs, and modern web applications u
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/luis-dhr)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/luis-dhr)
-![Profile Views](https://komarev.com/ghpvc/?username=luis-dhr&style=flat&color=0a66c2)
 
 ---
 
@@ -70,18 +69,22 @@ Building scalable backend services, reliable APIs, and modern web applications u
 ---
 
 ## GitHub Stats
-### Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-dhr&show_icons=true&theme=default&include_all_commits=true)
+### Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luis-dhr&theme=default)
 
-### Top Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dhr&layout=compact&theme=default)
+### Most Used Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-dhr&theme=default)
+
+### General Stats
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis-dhr&theme=default)
 
 ---
 
 ## Contact
 If you want to collaborate or discuss an opportunity, feel free to reach out:
 
-**Email:** luis-dhr@outlook.com 
+**Email:** luis-dhr@outlook.com
+
 **LinkedIn:** https://linkedin.com/in/luis-dhr
 
 ---
