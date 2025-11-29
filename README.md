@@ -72,12 +72,6 @@ Building scalable backend services, reliable APIs, and modern web applications u
 ### Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luis-dhr&theme=default)
 
-### Most Used Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-dhr&theme=default)
-
-### General Stats
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis-dhr&theme=default)
-
 ---
 
 ## Contact
