@@ -1,7 +1,7 @@
 # Luis Hernández
 
 ### Backend & Full-Stack Developer  
-Building scalable backend services, reliable APIs, and modern web applications using **Node.js**, **JavaScript/TypeScript**, **React**, **PHP**, and **MySQL**. Focused on clean architectures, cloud-ready systems, and high-quality code.
+Building scalable backend services, reliable APIs, and modern web applications using **Node.js**, **JavaScript/TypeScript**, **React**, **Python**, **PHP** and **SQL/No SQL Databases**. Focused on clean architectures, cloud-ready systems, and high-quality code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/luis-dhr)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/luis-dhr)
@@ -10,7 +10,7 @@ Building scalable backend services, reliable APIs, and modern web applications u
 
 ## About Me
 - 4+ years of experience in backend and full-stack development  
-- Expertise in **Node.js**, **PHP**, **REST APIs**, and **cloud integrations (AWS)**  
+- Expertise in **Node.js**, **Python**, **PHP**, **REST APIs**, and **cloud integrations (AWS)**  
 - Strong experience with **MySQL**, **MongoDB**, and **DynamoDB**  
 - Build full-stack interfaces using **React**  
 - Daily use of AI assistants (**GitHub Copilot**, **ChatGPT**, **Claude**)  
@@ -22,8 +22,9 @@ Building scalable backend services, reliable APIs, and modern web applications u
 ## Technical Skills
 
 ### Backend
-- Node.js · TypeScript · Express  
-- PHP · Slim Framework  
+- Node.js · TypeScript · Express
+- Python · FastAPI 
+- PHP · Slim Framework · Laravel 
 - REST API design · Integrations · Authentication  
 - Cron jobs · Background processing
 
@@ -33,14 +34,14 @@ Building scalable backend services, reliable APIs, and modern web applications u
 - Component design · API consumption
 
 ### Databases
-- MySQL · PostgreSQL (basic)
+- MySQL 
 - MongoDB · DynamoDB  
 - Query optimization · Indexing · Schema design
 
 ### Cloud / DevOps
-- AWS Lambda · API Gateway · S3  
+- AWS Lambda · API Gateway · S3 · EC2 · Lambda
+- Version control with Git & GitHub
 - CI/CD · GitHub Actions  
-- Version control with Git  
 - Monitoring & logging fundamentals
 
 ### AI Tools
@@ -55,16 +56,16 @@ Building scalable backend services, reliable APIs, and modern web applications u
 
 ### Backend Developer — Greenapsis (2023–2025)  
 - Designed and implemented REST APIs using **Node.js + TypeScript**  
-- Integrated cloud services via AWS Lambda, S3, API Gateway  
+- Integrated serverless applications with **Python** and **Node.js** via AWS **Lambda, S3, API Gateway** 
 - Built and improved backend modules for internal platforms  
 - Fixed bugs, optimized code, and enhanced system reliability  
 - Used Copilot, ChatGPT, and Claude to speed up development
 
 ### Full-Stack Developer — Niku Tecnologías (2021–2023)  
+- Development of dynamic web interfaces using **React.js**, integrated with backend services through API consumption 
 - Built and maintained a **PHP + MySQL data ingestion system** syncing data into DynamoDB  
-- Developed front-end features in **React** and backend logic in **PHP/Slim Framework**  
-- Integrated REST APIs and external services  
-- Participated in requirements gathering, testing, and documentation  
+- Designed and implemented backend services in **Python** with **FastAPI**, optimized for data processing and **MySQL** database management 
+- Participated in requirements gathering, testing, and documentation 
 
 ---
 
